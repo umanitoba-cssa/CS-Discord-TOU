@@ -105,7 +105,7 @@ While moderators will generally stick to the three-strike warning system when po
 
 ## Group Misconduct
 
-In instances of Terms of Use violations by many users, the following action may be taken:
+In instances of Terms of Use violations by many users, the following actions may be taken:
 
 - Enabling slowmode on specific channels or the entire server for a period of time.
 - Lockdown (disabling messaging) of specific channels or the entire server for a period of time.
