@@ -30,7 +30,7 @@ linkcolor: blue
 4. Illegal, pornographic, and gory media are prohibited.
 5. Pornographic content and content which conforms to hate speech in profile pictures, statuses, about me, or other profile sections are prohibited.
 6. Discussion or sharing of objectionable illegal content is prohibited.
-7. Disruptive behavior such as spam is prohibited.
+7. Disruptive behavior, such as spam, is prohibited.
 8. Impersonation or attempted impersonation of another person or user is prohibited.
 9. Be respectful of your fellow peers.
 10. Evasion of disciplinary action is prohibited.
