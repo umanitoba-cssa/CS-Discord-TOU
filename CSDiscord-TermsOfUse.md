@@ -118,7 +118,7 @@ These measures allow server moderators to diffuse problematic behavior without n
 
 # Data Collection and Privacy
 
-Some information about you and your conduct in the Discord server is collected under the authority of The University of Manitoba Act. The information you provide is used by us for the purpose of enforcing our server rules and guidelines, and enforcing University of Manitoba policies. Your personal information will not be used or disclosed for any other purpose, unless permitted by The Freedom of Information and Protection of Privacy Act (FIPPA).
+Some information about you and your conduct in the Discord server is collected under the authority of [The University of Manitoba Act](https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=u60). The information you provide is used by us for the purpose of enforcing our server rules and guidelines, and enforcing University of Manitoba policies. Your personal information will not be used or disclosed for any other purpose, unless permitted by [The Freedom of Information and Protection of Privacy Act (FIPPA)](https://www.gov.mb.ca/fippa/public_portal_home.html).
 
 Upon submitting server verification, the following data is collected:
 
