@@ -70,7 +70,7 @@ Guests and students not pursuing a relevant degree may be temporarily permitted 
 Users must verify themselves before receiving full access to the Discord server. During verification, the following information will be collected:
 
 - full name
-- institution email address (@myumanitoba.ca, @umanitoba.ca or @icmanitoba.ca)
+- institution email address (@myumanitoba.ca, @umanitoba.ca, or @icmanitoba.ca)
 - student number
 - degree title
 - year in degree
