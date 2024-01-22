@@ -51,10 +51,10 @@ linkcolor: blue
 
 The Discord server is intended for use by:
 
-- Students enrolled in a Computer Science, Computer Engineering, Data Science or related degree.
+- Students enrolled in Computer Science, Computer Engineering, Data Science, or related degrees.
 - Students taking 1000-level Computer Science courses.
 - Students who are members of recognized interdisciplinary clubs, such as .devClub.
-- Graduates of a Computer Science, Computer Engineering, Data Science or related program.
+- Graduates of Computer Science, Computer Engineering, Data Science, or related programs.
 
 Course instructors are permitted in the server under the following requirements:
 
