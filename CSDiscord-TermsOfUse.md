@@ -28,9 +28,9 @@ linkcolor: blue
     - [https://umanitoba.ca/student-supports/academic-supports/academic-integrity](https://umanitoba.ca/student-supports/academic-supports/academic-integrity)
 3. Racism, sexism, homophobia, transphobia, or other interactions which conform to hate speech are not tolerated.
 4. Illegal, pornographic, and gory media are prohibited.
-5. Pornographic content and content which conforms to hate speech in profile pictures, statuses, about me, or other profile sections is prohibited.
+5. Pornographic content and content which conforms to hate speech in profile pictures, statuses, about me, or other profile sections are prohibited.
 6. Discussion or sharing of objectionable illegal content is prohibited.
-7. Disruptive behavior such as spam is prohibited.
+7. Disruptive behavior, such as spam, is prohibited.
 8. Impersonation or attempted impersonation of another person or user is prohibited.
 9. Be respectful of your fellow peers.
 10. Evasion of disciplinary action is prohibited.
@@ -51,10 +51,10 @@ linkcolor: blue
 
 The Discord server is intended for use by:
 
-- Students enrolled in a Computer Science, Computer Engineering, Data Science or related degree.
+- Students enrolled in Computer Science, Computer Engineering, Data Science, or related degrees.
 - Students taking 1000-level Computer Science courses.
 - Students who are members of recognized interdisciplinary clubs, such as .devClub.
-- Graduates of a Computer Science, Computer Engineering, Data Science or related program.
+- Graduates of Computer Science, Computer Engineering, Data Science, or related programs.
 
 Course instructors are permitted in the server under the following requirements:
 
@@ -70,7 +70,7 @@ Guests and students not pursuing a relevant degree may be temporarily permitted 
 Users must verify themselves before receiving full access to the Discord server. During verification, the following information will be collected:
 
 - full name
-- institution email address (@myumanitoba.ca, @umanitoba.ca or @icmanitoba.ca)
+- institution email address (@myumanitoba.ca, @umanitoba.ca, or @icmanitoba.ca)
 - student number
 - degree title
 - year in degree
@@ -105,7 +105,7 @@ While moderators will generally stick to the three-strike warning system when po
 
 ## Group Misconduct
 
-In instances of Terms of Use violations by many users, the following action may be taken:
+In instances of Terms of Use violations by many users, the following actions may be taken:
 
 - Enabling slowmode on specific channels or the entire server for a period of time.
 - Lockdown (disabling messaging) of specific channels or the entire server for a period of time.
@@ -118,7 +118,7 @@ These measures allow server moderators to diffuse problematic behavior without n
 
 # Data Collection and Privacy
 
-Some information about you and your conduct in the Discord server is collected under the authority of The University of Manitoba Act. The information you provide is used by us for the purpose of enforcing our server rules and guidelines, and enforcing University of Manitoba policies. Your personal information will not be used or disclosed for any other purpose, unless permitted by The Freedom of Information and Protection of Privacy Act (FIPPA).
+Some information about you and your conduct in the Discord server is collected under the authority of [The University of Manitoba Act](https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=u60). The information you provide is used by us for the purpose of enforcing our server rules and guidelines, and enforcing University of Manitoba policies. Your personal information will not be used or disclosed for any other purpose, unless permitted by [The Freedom of Information and Protection of Privacy Act (FIPPA)](https://www.gov.mb.ca/fippa/public_portal_home.html).
 
 Upon submitting server verification, the following data is collected:
 
