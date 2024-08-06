@@ -59,9 +59,12 @@ The Discord server is intended for use by:
 Course instructors are permitted in the server under the following requirements:
 
 - You are not a Professor, Associate Professor, Assistant Professor, Department Head, Associate Head, or in an administrative position within the Computer Science department or University.
+- You are not a permanent employee of the Computer Science department or University.
 - You joined and were verified in the server prior to becoming an instructor, **OR** are currently a student actively pursuing a relevant degree while teaching courses.
-- You must notify server administrators that you have begun teaching courses.
+- You must notify server administrators that you have begun teaching courses and which courses you are teaching.
 - Instructors which do not adhere to these guidelines are subject to immediate removal.
+
+Instructors will have access to the relevant course channels revoked for the duration of the course.
 
 Guests and students not pursuing a relevant degree may be temporarily permitted for special cases such as club events, and are subject to removal from the server following the special exemption.
 
