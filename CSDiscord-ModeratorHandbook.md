@@ -102,7 +102,7 @@ When people break rules, it’s often that they just need a reminder of their ac
 
 | Command | Result |
 | :---- | :---- |
-| `/warn [user] [reason] [strike]` | Warns `[user]` for `[reason]`; `[true/false]` for strike |
+| `/warn [user] [reason] [strike] [url]` | Warns `[user]` for `[reason]`; `[true/false]` for strike; Use the optional field `[url]` as the message link for the reason for the warning.|
 | `/warn [user] [reason] false` | Warns `[user]` for `[reason]` |
 | `/warn [user] [reason] true` | Warns `[user]` and issues a strike for `[reason]` |
 
@@ -112,7 +112,7 @@ Sometimes people need to spend a bit of time away, and cool down from the situat
 
 | Command | Result |
 | :---- | :---- |
-| `/timeout [user] [minutes]` | Timeout `[user]` for `[minutes]` (up to 28 days) |
+| `/timeout [user] [reason] [minutes] [url]` | Timeout `[user]` for `[reason]` up to `[minutes]` (up to 28 days); Use the optional field `[url]` as the message link for the reason for the timeout.|
 | `/timeout [user] 5` | Timeout `[user]` for 5 minutes |
 | `/timeout [user] 60` | Timeout `[user]` for 1 hour |
 | `/timeout [user] 1440` | Timeout `[user]` for 1 day |
@@ -124,7 +124,7 @@ Once a certain amount of strikes/warnings have been issued and users are continu
 
 | Command | Result |
 | :---- | :---- |
-| `/kick [user] [reason]` | Kicks `[user]` for `[reason]` and notifies them |
+| `/kick [user] [reason] [url]` | Kicks `[user]` for `[reason]` and notifies them; Use the optional field `[url]` as the message link for the reason for the kick. |
 
 ### Bans
 
@@ -132,7 +132,7 @@ Bans should only be issued after consulting with administrators. These are used 
 
 | Command | Result |
 | :---- | :---- |
-| `/ban [user] [reason]` | Bans `[user]` for `[reason]` and notifies them |
+| `/ban [user] [reason] [url]` | Bans `[user]` for `[reason]` and notifies them; Use the optional field `[url]` as the message link for the reason for the ban. |
 
 
 \pagebreak
