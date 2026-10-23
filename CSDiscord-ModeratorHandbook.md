@@ -85,7 +85,7 @@ Using the Bot allows the moderators to send a message on our behalf. This should
 
 | Command | Result |
 | :---- | :---- |
-| `/message [user] [message]` | Messages `[user]` with `[message]` |
+| `/message [user] [template] [custom]` | Messages `[user]` using a prefilled `[template]` or a `[custom]` message. If both are provided, the custom message is prioritized.<br><br> **Available templates**: <br> Change ur nickname pls: *Hello! This is just a friendly reminder that according to our server guidelines, we ask that users change their server nickname to match the name you prefer to be called in person. This is so that everyone can have an idea of who they are talking to! Please change your nickname accordingly. If you have any questions, feel free to DM this bot!* <br> <br> Verify gone wrong: *Hello! I saw your message in #discord-registration . It seems that discord did not recognize you were typing a command- can you try typing /verify first, then pasting your verification code in the box that pops up? Feel free to DM this bot if you have any questions.*|
 | `/modmail [user]` | Sends the message history to/from `[user]` |
 
 ### Modnotes
